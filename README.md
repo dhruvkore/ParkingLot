@@ -1,4 +1,4 @@
--- AVANT Take Home Assessment Submissions --- Dhruv Kore --
+-- Take Home Assessment Submissions --- Dhruv Kore --
 Parking Lot Application
 
 Instructions:
